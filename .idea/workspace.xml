@@ -24,8 +24,8 @@
       <file leaf-file-name="BinaryTreeImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="96" column="48" lean-forward="false" selection-start-line="96" selection-start-column="48" selection-end-line="96" selection-end-column="48" />
+            <state relative-caret-position="221">
+              <caret line="100" column="28" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#302#303#0" expanded="true" />
@@ -353,12 +353,12 @@
       <workItem from="1510204334623" duration="765000" />
       <workItem from="1510224979654" duration="971000" />
       <workItem from="1510236359683" duration="10047000" />
-      <workItem from="1511414935761" duration="8008000" />
+      <workItem from="1511414935761" duration="8607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152841000" />
+    <option name="totallyTimeSpent" value="153440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-118" y="124" width="1370" height="772" extended-state="0" />
@@ -732,8 +732,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="96" column="48" lean-forward="false" selection-start-line="96" selection-start-column="48" selection-end-line="96" selection-end-column="48" />
+        <state relative-caret-position="221">
+          <caret line="100" column="28" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#302#303#0" expanded="true" />
