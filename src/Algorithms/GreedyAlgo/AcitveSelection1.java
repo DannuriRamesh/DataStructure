@@ -13,7 +13,7 @@ package Algorithms.GreedyAlgo;
         int i,j;
          i=0;
         System.out.print(s[i]+" ");
-
+        System.out.println("satheesh");
         for (j=1;j<n;j++){
             if (s[j]>=f[i]){
                 System.out.print(s[j]+" ");
