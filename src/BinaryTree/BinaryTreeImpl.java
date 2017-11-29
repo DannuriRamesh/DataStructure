@@ -45,21 +45,17 @@ public class BinaryTreeImpl {
             return;
         }
         Stack<Node> stack = new Stack<>();
-        Node temp = root;
-        while (temp!=null){
-            stack.push(temp);
-            temp = temp.left;
-        }
-        while (stack.size()>0){
-            temp = stack.pop();
-            System.out.print(temp.data+" , ");
-            if (temp.right!=null){
-                temp = temp.right;
-                while(temp!=null){
-                    stack.push(temp);
-                    temp = temp.left;
-                }
+        while (true){
+            while (root!=null){
+                stack.push(root);
+                root  = root.left;
             }
+            if (stack.isEmpty()){
+                return;
+            }
+            root  = stack.pop();
+            System.out.print(root.data+", ");
+            root = root.right;
         }
     }
 
