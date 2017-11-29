@@ -2,6 +2,7 @@ package BinaryTree;
 
 import java.util.LinkedList;
 import java.util.Queue;
+import java.util.Stack;
 
 import static java.lang.Math.max;
 
@@ -43,7 +44,23 @@ public class BinaryTreeImpl {
         if (root==null){
             return;
         }
-
+        Stack<Node> stack = new Stack<>();
+        Node temp = root;
+        while (temp!=null){
+            stack.push(temp);
+            temp = temp.left;
+        }
+        while (stack.size()>0){
+            temp = stack.pop();
+            System.out.print(temp.data+" , ");
+            if (temp.right!=null){
+                temp = temp.right;
+                while(temp!=null){
+                    stack.push(temp);
+                    temp = temp.left;
+                }
+            }
+        }
     }
 
     public void PostOrder(Node root){
@@ -333,6 +350,7 @@ public class BinaryTreeImpl {
 
 
         System.out.println("\n this two trees are idential  : "+isIdentical(root , root2));
+        tree.InorderNonRecursion(root);
 
     }
 

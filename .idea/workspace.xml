@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c58e1e2-95bd-4f74-9dbd-4ba2fb140fe9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/Sort012.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/Sort012two.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stack/StackImpleUsingQueue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LinkedList/NumberConvertList.java" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/README.md" />
       <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/DataStructureproblems/src/LinkedList/NumberConvertList.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/DataStructureproblems/src/LinkedList/Sort012.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/DataStructureproblems/src/LinkedList/Sort012two.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Downloads/DataStructureproblems/src/stack/StackImpleUsingQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DataStructureproblems/Algorithms/GreedyAlgo/AcitveSelection1.class" afterPath="$PROJECT_DIR$/out/production/DataStructureproblems/Algorithms/GreedyAlgo/AcitveSelection1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/DataStructureproblems/BinaryTree/BinaryTreeImpl.class" afterPath="$PROJECT_DIR$/out/production/DataStructureproblems/BinaryTree/BinaryTreeImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java" afterPath="$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,21 +25,11 @@
   <component name="ChangesViewManager" flattened_view="false" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinaryTreeImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BinaryTreeImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AcitveSelection1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/AcitveSelection1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -44,7 +38,7 @@
       <file leaf-file-name="ConstructTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTree/ConstructTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
+            <state relative-caret-position="283">
               <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
@@ -82,7 +76,6 @@
         <option value="$PROJECT_DIR$/src/ArraysProblems/Search/SlidingWindow.java" />
         <option value="$PROJECT_DIR$/src/ArraysProblems/Search/SlidingWindow2.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/GreedyAlgo/ActivitySelection3.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/GreedyAlgo/ActivitySelection2.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/GreedyAlgo/Activity1.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/LinkedList/ReverseLinkeList.java" />
@@ -122,8 +115,9 @@
         <option value="$PROJECT_DIR$/src/stack/MergeOverlapping.java" />
         <option value="$PROJECT_DIR$/src/stack/MergeOverlappings.java" />
         <option value="$PROJECT_DIR$/src/BinaryTree/ConstructTree.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/GreedyAlgo/AcitveSelection1.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/GreedyAlgo/ActivitySelection2.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java" />
       </list>
     </option>
   </component>
@@ -167,12 +161,6 @@
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="GreedyAlgo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -214,6 +202,44 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.BinaryTreeImpl">
+    <configuration name="AcitveSelection1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.GreedyAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Algorithms.GreedyAlgo.AcitveSelection1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DataStructureproblems" />
+      <envs />
+    </configuration>
+    <configuration name="ActivitySelection2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Algorithms.GreedyAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Algorithms.GreedyAlgo.ActivitySelection2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DataStructureproblems" />
+      <envs />
+    </configuration>
     <configuration name="BinaryTreeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -271,39 +297,6 @@
       <module name="DataStructureproblems" />
       <envs />
     </configuration>
-    <configuration name="SerializationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="SerializationExample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="SerializationExample.SerializationDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DataStructureproblems" />
-      <envs />
-    </configuration>
-    <configuration name="TemperatureAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TemperatureAvg" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DataStructureproblems" />
-      <envs />
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -320,19 +313,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TemperatureAvg" />
-      <item index="1" class="java.lang.String" itemvalue="Application.SerializationDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MergeOverlappings" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinaryTreeImpl" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ConstructTree" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MergeOverlappings" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeImpl" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConstructTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ActivitySelection2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AcitveSelection1" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreeImpl" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ConstructTree" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MergeOverlappings" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SerializationDemo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TemperatureAvg" />
+        <item index="1" class="java.lang.String" itemvalue="Application.AcitveSelection1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ActivitySelection2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ConstructTree" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MergeOverlappings" />
       </list>
     </recent_temporary>
   </component>
@@ -363,12 +356,12 @@
       <workItem from="1510236359683" duration="10047000" />
       <workItem from="1511414935761" duration="9878000" />
       <workItem from="1511762278307" duration="18950000" />
-      <workItem from="1511967899578" duration="98000" />
+      <workItem from="1511967899578" duration="2150000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173759000" />
+    <option name="totallyTimeSpent" value="175811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -376,14 +369,15 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287037" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3580247" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3580247" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3580247" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287037" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.49394855" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -398,7 +392,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -525,13 +518,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/ActivitySelection3.java" />
     <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/Activity1.java" />
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/ActivitySelection2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList/SingleLinkedList/DoubleLinkedList/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/LinkedList/SingleLinkedList/LinkeList.java" />
     <entry file="file://$PROJECT_DIR$/src/LinkedList/SingleLinkedList/SingleLinkedList/LinkedList.java" />
@@ -730,9 +716,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/ActivitySelection2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/AcitveSelection1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTree/ConstructTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
+        <state relative-caret-position="283">
           <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
@@ -740,16 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/GreedyAlgo/AcitveSelection1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="54" column="43" lean-forward="false" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="43" />
           <folding />
         </state>
       </provider>
