@@ -24,8 +24,8 @@
       <file leaf-file-name="BinaryTreeImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="261" column="9" lean-forward="true" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
+            <state relative-caret-position="322">
+              <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,8 +36,8 @@
       <file leaf-file-name="ConstructTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTree/ConstructTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="283">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -114,8 +114,8 @@
         <option value="$PROJECT_DIR$/src/SerializationExample/SerializationDemo.java" />
         <option value="$PROJECT_DIR$/src/stack/MergeOverlapping.java" />
         <option value="$PROJECT_DIR$/src/stack/MergeOverlappings.java" />
-        <option value="$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java" />
         <option value="$PROJECT_DIR$/src/BinaryTree/ConstructTree.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java" />
       </list>
     </option>
   </component>
@@ -212,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConstructTree">
+  <component name="RunManager" selected="Application.BinaryTreeImpl">
     <configuration name="BinaryTreeImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -327,8 +327,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ConstructTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinaryTreeImpl" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BinaryTreeImpl" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ConstructTree" />
         <item index="2" class="java.lang.String" itemvalue="Application.MergeOverlappings" />
         <item index="3" class="java.lang.String" itemvalue="Application.SerializationDemo" />
         <item index="4" class="java.lang.String" itemvalue="Application.TemperatureAvg" />
@@ -361,12 +361,12 @@
       <workItem from="1510224979654" duration="971000" />
       <workItem from="1510236359683" duration="10047000" />
       <workItem from="1511414935761" duration="9878000" />
-      <workItem from="1511762278307" duration="15905000" />
+      <workItem from="1511762278307" duration="18555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="170616000" />
+    <option name="totallyTimeSpent" value="173266000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -729,16 +729,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTree/ConstructTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="283">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTree/BinaryTreeImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="261" column="9" lean-forward="true" selection-start-line="261" selection-start-column="9" selection-end-line="261" selection-end-column="9" />
+        <state relative-caret-position="322">
+          <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -38,6 +38,13 @@ public class BinaryTreeImpl {
         System.out.println("inOrder " +root.data);
         Inorder(root.right);
     }
+    //Non recursion  using stack
+    public void InorderNonRecursion(Node root){
+        if (root==null){
+            return;
+        }
+
+    }
 
     public void PostOrder(Node root){
         if (root==null){
@@ -56,7 +63,7 @@ public class BinaryTreeImpl {
         preOrder(root.right);
 
     }
-    // non recursion
+    // non recursion unsing Level Order Traversal
 
     private void LevelOrder(Node root) {
         if (root == null) {
@@ -121,7 +128,7 @@ public class BinaryTreeImpl {
             }
             return maxValue;
     }
-    //without recursion
+    //without recursion using level Order Traversal
     private int maxValueInBinaryTree2(Node root){
             if(root==null){
                 return Integer.MIN_VALUE;
@@ -212,6 +219,63 @@ public class BinaryTreeImpl {
         }
         return count;
     }
+    //insert Node in Tree using recursion
+    public void insert(Node root , int data){
+        if(root==null){
+            root  =new Node(data);
+        }
+        else {
+            insertHelper(root,data);
+        }
+    }
+    private void insertHelper(Node root, int data){
+        if (root.data>=data){
+            if (root.left==null){
+                root.left = new Node(data);
+            }
+            else {
+                insertHelper(root.left,data);
+            }
+        }
+        else {
+            if (root.right==null){
+                root.right = new Node(data);
+            }
+            else {
+                insertHelper(root.right,data);
+            }
+        }
+    }
+    //insert Node Using levelOrder Traversal
+    public Node insert2(Node root , int data){
+        if (root==null){
+            return null;
+        }
+        Queue<Node> q = new LinkedList<>();
+        q.offer(root);
+        while (!q.isEmpty()){
+            Node temp  = q.poll();
+            if(temp!=null){
+                if (temp.left!=null){
+                    q.offer(temp.left);
+                }
+                else {
+                    temp.left = new Node(data);
+                    return root;
+                }
+                if (temp.right!=null){
+                    q.offer(temp.right);
+                }
+                else {
+                    temp.right = new Node(data);
+                    return root;
+                }
+            }
+        }
+        return root;
+    }
+
+
     private int height(Node root){
         if (root==null){
             return 0;
@@ -247,10 +311,26 @@ public class BinaryTreeImpl {
          root2.right = new Node(3);
          root2.left.left = new Node(4);
          root2.left.right = new Node(5);
-         root2.right.right = new Node(6);
+         root2.right.right = new Node(8);
         tree.LevelOrder(root);
         tree.LevelOrder(root2);
         printLevelByLevel(root);
+
+        System.out.println("affter insert");
+        tree.insert(root,10);
+
+
+        tree.LevelOrder(root);
+        printLevelByLevel(root);
+
+
+        System.out.println("affter insert");
+        tree.insert2(root,11);
+        tree.insert2(root,12);
+        tree.insert2(root,13); tree.insert2(root,14);
+        tree.LevelOrder(root);
+        printLevelByLevel(root);
+
 
         System.out.println("\n this two trees are idential  : "+isIdentical(root , root2));
 
